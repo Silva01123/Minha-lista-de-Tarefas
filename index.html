@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Minha Lista de Tarefas</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+     <!-- CABEÇALHO -->
+    <header>
+        <h1>Minha Lista de Tarefas</h1>
+    </header>
+    <!-- Aqui virá o restante do conteúdo principal da página -->
+    <main>
+         <!-- FORMULÁRIO DE ADICIONAR TAREFAS -->
+        <section id="add-task">
+            <!-- Section é usada para separar blocos de conteúdo -->
+            <form id="task-form">
+                <!-- Formulário onde a pessoa digita a tarefa -->
+                <input 
+                type="text"
+                id="task-input"
+                placeholder="Digite sua tarefa aqui..."
+                required
+                />
+                <!-- Campo de texto onde a tarefa será digitada -->
+
+                <button type="submit">Adicionar</button>
+                <!-- Botão que envia o formulário -->
+            </form>
+        </section>
+
+         <!-- LISTA DE TAREFAS -->
+        <section id="task-list-section">
+            <h2>Tarefas:</h2>
+            <ul id="task-list">
+                 <!-- Aqui o JavaScript vai inserir as tarefas -->
+            </ul>
+        </section>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html>
