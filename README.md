@@ -20,7 +20,7 @@ Este é um projeto básico de uma lista de tarefas ideal para treinar conceitos 
 - Código HTML semântico, com elementos estruturados para melhor organização.
 - Estilização simples e funcional para uma interface limpa e intuitiva.
 - Funcionalidade de adicionar e remover tarefas funcionando corretamente.
-- Organização do projeto com arquivos separados (`index.html`, `style.css`, `script.js`).
+- Organização do projeto com arquivos separados (index.html, style.css e index.js).
 - README atualizado para melhor documentação.
 - Projeto versionado e publicado corretamente no GitHub.
 
