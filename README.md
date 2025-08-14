@@ -34,10 +34,7 @@ Este é um projeto básico de uma lista de tarefas ideal para treinar conceitos 
 
 ---
 
-## 📂 Como rodar o projeto
+ACESSE E VEJA:
+https://silva01123.github.io/Minha-lista-de-Tarefas/
 
-Clone este repositório:
-
-```bash
-git clone https://github.com/Silva01123/Minha-lista-de-Tarefas.git
 
